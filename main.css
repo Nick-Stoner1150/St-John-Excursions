@@ -34,6 +34,11 @@
     background-color: white;
 }
 
+.article1 h2{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 .pictures{
     position: relative;
     width: 500px;
@@ -46,3 +51,12 @@
     border: 1px solid black;
     margin: 0px 10px 10px 10px;
 }
+
+.article2 h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.article2 p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
